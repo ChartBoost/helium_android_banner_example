@@ -37,7 +37,10 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.4.0'
     implementation 'com.google.android.material:material:1.4.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
-    implementation 'com.google.android.gms:play-services-ads-identifier:18.0.0'
+    //Fyber
+    implementation 'com.fyber:marketplace-sdk:8.1.0'
+
+    implementation 'com.google.android.gms:play-services-ads-identifier:18.0.1'
     implementation 'com.google.android.gms:play-services-base:18.0.1'
     implementation 'org.greenrobot:eventbus:3.1.1'
     testImplementation 'junit:junit:4.+'
